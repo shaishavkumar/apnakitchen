@@ -1,7 +1,7 @@
 Thank You for showing interest in the App :)
 ********************************************
 
-Rasoi is made mainly on Angular and is a demo Food Ordering App
+Apna Kitchen is made mainly on Angular and is a demo Food Ordering App
 
 Here Chef can sell food
 & Customer can buy food
@@ -13,7 +13,7 @@ Note: I would recommend using Chrome Browser
 >>localhost:4200/dms
 
 
-# Rasoi
+# Apna Kitchen
 TO run the app 
 >>ng serve -o
 
